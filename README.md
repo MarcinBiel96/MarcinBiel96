@@ -3,7 +3,7 @@
 
 ## <p align="center">😸 C C++ 😸</p>
 
-## <p align="center">😻 VB.net C# VBA 😻</p>
+## <p align="center">😻 VB.NET C# VBA 😻</p>
 
 ## <p align="center">🙀 x86 AVR asm🙀</p>
 
